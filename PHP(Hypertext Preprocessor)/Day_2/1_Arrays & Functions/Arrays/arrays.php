@@ -1,0 +1,1 @@
+$names = array("John", "Alice", "Mike");
