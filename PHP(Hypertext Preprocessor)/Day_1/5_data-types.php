@@ -19,13 +19,13 @@ $empty=null;                        //Null
 //echo var_dump($empty);
 
 class Car{                          //Object
-    public $color;
+    public $paint;
 }
 $myCar = new Car();
-$myCar ->color="red";
-// echo var_dump($myCar)
+$myCar ->paint="red";
+echo var_dump($myCar)
 
-//$connection = ftp_connect("127.0.0.1") or die(" local host not found");
+// $connection = ftp_connect("127.0.0.1") or die(" local host not found");
 // echo var_dump($connection);
 
 

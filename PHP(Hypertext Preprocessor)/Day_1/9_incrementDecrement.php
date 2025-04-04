@@ -2,20 +2,28 @@
 $a = 10;
 
 // Post Increment
-echo $a++;
-echo $a;
+// echo $a++;
+// echo "<br>";
+// echo $a;
 echo "<br>";
 
 // Pre Increment
-echo ++$a;
-
-// Pre Increment
-echo --$a;
+// echo ++$a;
+// echo "<br>";
+// echo $a;
 echo "<br>";
 
-// Post Increment
-echo $a--;
-echo $a;
+// // Pre Decrement
+// echo --$a;
+// echo "<br>";
+// echo $a;
+echo "<br>";
+
+// // Post Decrement
+// echo $a--;
+// echo "<br>";
+// echo $a;
+echo "<br>";
 
 
 
